@@ -5,6 +5,7 @@ function say() {
     echo "hello phpstorm";
     echo "hello hot-fix";
     echo "hello master";
+    echo "hot-fix test";
 }
 
 say();

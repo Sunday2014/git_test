@@ -6,6 +6,7 @@ function say() {
     echo "hello hot-fix";
     echo "hello master";
     echo "hot-fix test";
+    echo "push test";
 }
 
 say();

@@ -7,6 +7,7 @@ function say() {
     echo "hello master";
     echo "hot-fix test";
     echo "push test";
+    echo "pull test";
 }
 
 say();
